@@ -10,4 +10,8 @@ System.out.println("method A");
 {
 System.out.println("method B");	
 }
+  public void c()
+{
+System.out.println("method c");	
+}
 }
